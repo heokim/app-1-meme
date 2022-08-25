@@ -1,5 +1,5 @@
 # app-1-meme
-Primera aplicacion en React Js. es un generador de meme apartir de unas plantillas predeterminadas
+Primera aplicacion en React Js. es un generador de meme apartir de unas plantillas predeterminadas de Lucas Moy (youtube)
 
 # Getting Started with Create React App
 
